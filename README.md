@@ -21,9 +21,8 @@
 
 ## About Me  
 
-I'm a grad student at **Trinity College Dublin** with hands-on experience in **Machine Learning, Deep Learning, Image processing Computer vision, and Generative AI**
-
-Currently I work with GaaraAI - IIT madras startup with pose estimation and vision algorithms. Building pipelines, containarizing using docker and webservices using FastAPI.
+AI/ML Engineer with hands-on experience in analyzing data, building scalable data pipelines, and developing Deep learning and Machine
+Learning solutions using Python, focused on delivering practical AI applications for real-world business needs.
 
 ---
 
@@ -74,9 +73,9 @@ Currently I work with GaaraAI - IIT madras startup with pose estimation and visi
 
 ### Deep Learning
 - **[Medical Image Segmentation](https://github.com/AakashRevankar/Medical_image_segmentation)** – CNN, U-net, ResNet-18 to implement segmentation to find biomedical insights about fetal image head analysis.  
-- **[GenAI image generator with fine tuning](https://github.com/AakashRevankar/SDXL_loRA_fine_tuning)** – Implenting LoRA/QLoRA fine tuning to generate custom prompt images. 
-<!-- - **[RAG based NLP ](https://github.com/sakshivedi-1/PALM_READER)** – Implenting LoRA/QLoRA fine tuning to generate custom prompt images.
-- **[Agentic AI to write blog](https://github.com/sakshivedi-1/PALM_READER)** – Implenting LoRA/QLoRA fine tuning to generate custom prompt images. -->
+- **[GenAI image generator with fine tuning](https://github.com/AakashRevankar/SDXL_loRA_fine_tuning)** – Implenting LoRA/QLoRA fine tuning to generate custom prompt images.
+- **[Gitcite.ai](https://github.com/AakashRevankar/gitcite.ai)** - Implementing RAG for github with answers that cite the code. 
+
 
 ---
 
